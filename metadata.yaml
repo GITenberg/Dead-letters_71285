@@ -1,0 +1,42 @@
+_repo: Dead-letters_71285
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baring, Maurice
+    birthdate: 1874
+    deathdate: 1945
+    gutenberg_agent_id: '937'
+    url: http://www.gutenberg.org/2009/agents/937
+    wikipedia: https://en.wikipedia.org/wiki/Maurice_Baring
+description: Imaginary letters from historical or legendary characters.
+gutenberg_issued: '2023-07-28'
+identifiers:
+  gutenberg: '71285'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924013582196
+pgterms:marc905: 20230503142306baring
+pgterms:marc906: '1910'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bHoughton Mifflin Company, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English wit and humor'
+- !lcsh 'Imaginary letters'
+- !lcsh 'English fiction -- 20th century'
+- !lcsh 'Letters in literature'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: From the Mycenae papers -- With the Carthaginian fleet, 216, B.C.
+  -- Lesbia Illa -- Cleopatra at Rome -- Ovid's banishment -- The Caprae regatta,
+  A.D. 27 -- Messalina -- Nero interviewed, Rome, A.D. 64 -- Marcus Aurelius at Lanuvium
+  -- The Camelot jousts -- King Lear's daughter -- Lady Macbeth's trouble -- At the
+  court of King Claudius -- Romeo and Rosaline -- A first night -- The poet, the player,
+  and the literary agent -- Bath, 1663 -- Peter the Great -- "Hamlet" and Dr. Dodd
+  -- Herr Müller -- Heine in Paris -- Smith major -- From Saturday to Monday -- A
+  Russian sailor.
+title: Dead letters
+url: http://www.gutenberg.org/ebooks/71285
